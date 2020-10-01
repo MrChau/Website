@@ -1,4 +1,4 @@
-# GreenClothaWay
+# GreenClothaWayFactory
 
 ## prerequisites
 `python >= 3.6`
